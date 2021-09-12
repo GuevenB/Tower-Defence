@@ -1,0 +1,153 @@
+       //Map1 Slots
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 280, 285, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",115, 635, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",660, 285, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1050, 390, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1685, 375, 192 ,192));
+        /*
+        //Map2 Slots
+
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 403, 183, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 403, 555, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 621,789, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 813, 436 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 1160,259, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 1434,114, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 1434, 675, 192, 192));
+        slots.add(new TowerSlot(root, "Slot2.png", "tower_onclick.png", 1063, 914, 192, 192));
+        //Map 3 Slots
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",490, 36, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",198, 302 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",512, 425, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",999, 355, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1388, 355, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",330, 933, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",910, 933, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1574, 816, 192 ,192));
+        //Map 4 Slots
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",35,161, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",325,525, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",490,0, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",410,850, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",832,130, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1081,495, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1592,140, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1440,637, 192 ,192));
+        //Map 5 Slots
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",290,511, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",590,170, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",590,770, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",960,770, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1165,170, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1206, 568,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1718,170, 192 ,192));
+        //Map 6 Slots
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",911,102, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",362,552, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",321,909, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",722,202, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",717,603, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",1455,374, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",1204,801, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",992,591, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot6.png", "tower_onclick.png",1802,634, 192 ,192));
+        //Map 7 Slots
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 176-50,126, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 136,620-40, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 560,264-100, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 786-110,748-20, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 996,594-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 1202-110,986-60, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png", 1338,594-50, 192 ,192));
+
+        //Map 8 Slots
+
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",244-80,330, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",516,238-100, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",900, 232-100 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",792,462+80, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1152,424, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1500,540-110, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1694,750-20, 192 ,192));
+
+
+        //Map 9 Slots
+
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",100,490, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",302,109, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",532,334-85, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",960,114-85, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1250-20,358, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1548,478, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1728,852-20, 192 ,192));
+
+        //Map 10 Slots
+           slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",68,204-35, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",82,584-50,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",724-50, 246-50 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",858-50,464-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1018,842-60, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1238,464-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",568,842-70, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1422,842-70, 192 ,192));
+
+
+
+//Map 11 Slots
+
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",52,420-30, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",484,420,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",390, 132-70 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1106,132-70, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",484,770, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",900,390, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1282,390, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1082,630-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1540,935-120, 192 ,192));
+
+
+
+//Map 12 Slots
+
+       	slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",76, 500 ,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",384,500,192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",384,156, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",560,760-40, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",704+20,154, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",704+20,458-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",920,760-40, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1220-20,760-40, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1420,408, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1526,760, 192 ,192));
+
+
+//Map 13 Slots
+
+  	 slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",104,20, 180 ,180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",60,364,180, 180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",774-30, 364 ,180, 180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1090,50, 180 ,180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1292-20,600-20, 180 ,180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",774,800, 180 ,180));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1785-120,600-20, 180 ,180));
+     	 	 /* slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1785,900, 180 ,180));
+        	slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1300,900, 180 ,180));*/
+
+
+//Map 14 Slots
+
+
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",370-70, 38, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",370-70, 400, 192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",446-70, 668, 192, 192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",670-70, 828, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",882-40, 450-50, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1396, 38, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1396, 400, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1294, 668, 192 ,192));
+        slots.add(new TowerSlot(root, "Slot.png", "tower_onclick.png",1110, 828, 192 ,192));
+
+
+
+        */
+
